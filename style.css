@@ -1,0 +1,7 @@
+ul li{
+    list-style: none;
+    width: 400px;
+}
+.color-aqua{
+    background-color: rgb(172, 250, 250);
+}
